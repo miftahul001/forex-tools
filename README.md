@@ -35,3 +35,7 @@ cd path/to/src
 php -S localhost:65531 fx1.php
 
 open with browser, localhost:65531
+
+data currently missing, beacause size is huge MB.
+
+format sqlite data, create table t1(a1,a2,a3). a1 is timeframe YYYYMMDD HH:MM:SS.SSS ex 20180101 00:00:00.100, a2 is bid price and a3 is ask price ex 1.12345
